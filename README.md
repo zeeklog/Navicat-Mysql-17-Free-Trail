@@ -1,8 +1,6 @@
 # Navicat-Mysql-15/16/17-Free-Trail bash
 Plz, only use when you need to export y our data. For daily use , plz buy from Navicat Store.
 
-# navicat-refresh1
-
 ### Version
 - Navicat Premium 17, 16, and 15 (Windows)
 
@@ -31,3 +29,6 @@ The script will delete the following registry entries:
 ## How to Use
 1. Download the script.
 2. Run the script as an administrator to ensure it has the necessary permissions to delete the registry entries.
+
+## Or you can do it your self, it's pretty easy:
+[Path Example](https://github.com/zeeklog/Navicat-Mysql-17-Free-Trail/blob/main/Path%20Demo.png?raw=true)
