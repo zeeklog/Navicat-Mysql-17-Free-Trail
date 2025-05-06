@@ -26,6 +26,8 @@ The script will delete the following registry entries:
      ```
    - Note: The parent folder name of "Info" and "ShellFolder" may vary from person to person, so the script is designed to carefully locate and remove these entries without affecting other important files.
 
+[Example Picture](https://github.com/zeeklog/Navicat-Mysql-17-Free-Trail/blob/main/Path%20Demo.png?raw=true)
+
 ## How to Use
 1. Download the script.
 2. Run the script as an administrator to ensure it has the necessary permissions to delete the registry entries.
